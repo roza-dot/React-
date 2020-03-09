@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+form {
+  margin-left: 650px;
+  width: 100px;
+  font-size: 20px;
+}
+.text{
+  font-size: large;
+}
+.submit_button {
+  width: 80px;
+  font-size: xx-large;
+}
+.box {
+  width: 100px;
+}
